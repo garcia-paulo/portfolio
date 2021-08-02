@@ -105,6 +105,9 @@ a {
 }
 
 @media (max-width: 700px) {
+	h1 {
+		font-size: larger;
+	}
 	header {
 		grid-column: 2 / 12;
 	}
