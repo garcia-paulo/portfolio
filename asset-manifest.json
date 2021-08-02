@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1dffae74.chunk.css",
+    "main.css": "/portfolio/static/css/main.f1e7b6ae.chunk.css",
     "main.js": "/portfolio/static/js/main.87983375.chunk.js",
     "main.js.map": "/portfolio/static/js/main.87983375.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.4835ebcd.js",
@@ -8,7 +8,7 @@
     "static/js/2.b6b8baff.chunk.js": "/portfolio/static/js/2.b6b8baff.chunk.js",
     "static/js/2.b6b8baff.chunk.js.map": "/portfolio/static/js/2.b6b8baff.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.1dffae74.chunk.css.map": "/portfolio/static/css/main.1dffae74.chunk.css.map",
+    "static/css/main.f1e7b6ae.chunk.css.map": "/portfolio/static/css/main.f1e7b6ae.chunk.css.map",
     "static/js/2.b6b8baff.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b6b8baff.chunk.js.LICENSE.txt",
     "static/media/binary-drill.5599434a.png": "/portfolio/static/media/binary-drill.5599434a.png",
     "static/media/chat-up.041af854.png": "/portfolio/static/media/chat-up.041af854.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.4835ebcd.js",
     "static/js/2.b6b8baff.chunk.js",
-    "static/css/main.1dffae74.chunk.css",
+    "static/css/main.f1e7b6ae.chunk.css",
     "static/js/main.87983375.chunk.js"
   ]
 }
