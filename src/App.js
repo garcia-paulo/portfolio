@@ -300,8 +300,9 @@ function App() {
             </a>
             <span>
               Projeto criado enquanto eu aprendia React Native. Uma calculadora
-              feita com React Native, eu não recomendo a instalação de .apks
-              desconhecidos mas caso queira se arriscar aqui está o link do{" "}
+              feita para aparelhos mobile, eu não recomendo a instalação de
+              .apks desconhecidos mas caso queira se arriscar aqui está o link
+              do{" "}
               <a
                 href="https://github.com/garcia-paulo/mobile-calculator/releases/tag/v1.0"
                 rel="noreferrer"
