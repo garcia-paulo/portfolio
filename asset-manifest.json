@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f1e7b6ae.chunk.css",
-    "main.js": "/portfolio/static/js/main.87983375.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.87983375.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.bee10afb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bee10afb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.4835ebcd.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.4835ebcd.js.map",
-    "static/js/2.b6b8baff.chunk.js": "/portfolio/static/js/2.b6b8baff.chunk.js",
-    "static/js/2.b6b8baff.chunk.js.map": "/portfolio/static/js/2.b6b8baff.chunk.js.map",
+    "static/js/2.ea08dd0d.chunk.js": "/portfolio/static/js/2.ea08dd0d.chunk.js",
+    "static/js/2.ea08dd0d.chunk.js.map": "/portfolio/static/js/2.ea08dd0d.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.f1e7b6ae.chunk.css.map": "/portfolio/static/css/main.f1e7b6ae.chunk.css.map",
-    "static/js/2.b6b8baff.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b6b8baff.chunk.js.LICENSE.txt",
-    "static/media/binary-drill.5599434a.png": "/portfolio/static/media/binary-drill.5599434a.png",
+    "static/js/2.ea08dd0d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ea08dd0d.chunk.js.LICENSE.txt",
     "static/media/chat-up.041af854.png": "/portfolio/static/media/chat-up.041af854.png",
     "static/media/css.722df3f4.png": "/portfolio/static/media/css.722df3f4.png",
     "static/media/express.39a0f4c3.png": "/portfolio/static/media/express.39a0f4c3.png",
     "static/media/github.6305a176.png": "/portfolio/static/media/github.6305a176.png",
     "static/media/html.d160408c.png": "/portfolio/static/media/html.d160408c.png",
+    "static/media/mobile-calculator.dcdc3650.png": "/portfolio/static/media/mobile-calculator.dcdc3650.png",
     "static/media/mongo.41634622.png": "/portfolio/static/media/mongo.41634622.png",
     "static/media/nodeJS.d4547a90.png": "/portfolio/static/media/nodeJS.d4547a90.png",
     "static/media/react.2f2532db.png": "/portfolio/static/media/react.2f2532db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4835ebcd.js",
-    "static/js/2.b6b8baff.chunk.js",
+    "static/js/2.ea08dd0d.chunk.js",
     "static/css/main.f1e7b6ae.chunk.css",
-    "static/js/main.87983375.chunk.js"
+    "static/js/main.bee10afb.chunk.js"
   ]
 }
